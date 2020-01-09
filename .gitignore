@@ -20,7 +20,9 @@
 # Ignore uploaded files in development
 /storage/*
 !/storage/.keep
-#salut
+
+
+#alte chestii de modificat
 /node_modules
 /yarn-error.log
 
